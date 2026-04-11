@@ -6,7 +6,7 @@ I learn greek so I decided to practise in coding and unite my interests.
 Now I know variables, functions, loops, conditionals, lists, and dictionaries in python.
 I will update this project when I will get new knowledges in python
 
-##**My plans to this project**:
+##**My plans and features to this project**:
   1. Add learn/test function. You will see greek word and you need to write translation to english or vice versa
   2. Integrate json to keep your words on your computer
   3. Transite this project to OOP
