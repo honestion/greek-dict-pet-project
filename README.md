@@ -8,7 +8,7 @@ I will update this project when I will get new knowledges in python
 
 ##**🎯My plans and features to this project**:
   1. Add learn/test function. You will see greek word and you need to write translation to english or vice versa
-  2. Integrate ~~json~~SQL to keep your words
+  2. Integrate ~~json~~ SQL to keep your words
   3. Transite this project to OOP
   4. Integrate exception check to force errors
   5. Learn git better than only add, commit, push
