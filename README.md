@@ -1,5 +1,5 @@
 ##👋**Hello, I'm honestion and this is my pet project.**
-You can copy it to yuor terminal and test. This is your personal database of greek words(not only), 
+You can copy it to your terminal and test. This is your personal database of greek words(not only), 
 but all words deleted from your computer when you switch it off. You can add, delete, see your words here
 (learn not yet)
 I learn greek so I decided to practise in coding and unite my interests. 
